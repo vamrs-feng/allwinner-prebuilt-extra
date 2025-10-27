@@ -1,3 +1,14 @@
+allwinner-prebuilt-extra (0.1.7) unstable; urgency=medium
+
+  [ Jiali Chen ]
+  * fix: add some gstreamer packages
+  * fix: add Allwinner A733 ISP API package
+
+  [ dependabot[bot] ]
+  * build(deps): bump actions/download-artifact from 5 to 6
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Mon, 27 Oct 2025 02:09:24 +0000
+
 allwinner-prebuilt-extra (0.1.6) unstable; urgency=medium
 
   [ "Radxa Computer Co., Ltd" ]
